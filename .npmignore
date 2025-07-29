@@ -1,0 +1,9 @@
+test/
+coverage/
+.nyc_output
+examples/
+docs/
+.github/
+*.test.js
+.eslintrc.js
+jest.config.js
