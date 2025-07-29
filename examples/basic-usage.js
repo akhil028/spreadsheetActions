@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const { Spreadsheet } = require('../src');
 
 // Create and populate spreadsheet
